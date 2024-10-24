@@ -76,7 +76,7 @@ Start the FastAPI server:
 ```
 bash
 ```uvicorn app2:app --reload```
-Open your browser and go to http://127.0.0.1:8000/docs to view the FastAPI documentation.
+
 Training the Model
 Open the Jupyter notebook chess_aii_new.ipynb.
 Ensure you have the dataset and necessary dependencies installed.
