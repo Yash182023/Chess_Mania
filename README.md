@@ -91,11 +91,10 @@ json
 {
   "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
 }
-Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or report issues in the issue tracker.
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-yaml
+
 ---
